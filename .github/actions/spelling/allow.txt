@@ -10,9 +10,11 @@ Achird
 acomplete
 adamw
 ADAS
+AClient
 adk
 ADK
 ADMA
+admins
 adr
 aexecute
 aextract
@@ -37,6 +39,7 @@ akka
 Aktu
 ALCS
 ALDS
+Alessia
 Alibaba
 alisal
 alloydb
@@ -48,6 +51,7 @@ Anant
 antiword
 ANZ
 AOT
+apac
 APAC
 Aphone
 APIENTRY
@@ -129,6 +133,7 @@ bgr
 BGR
 bgswap
 Bhagwat
+Bharath
 Biden
 bigframes
 bigquery
@@ -177,6 +182,7 @@ cais
 CALIPSO
 campestre
 CAMQAA
+Canlaws
 Caprese
 carbonara
 Carcante
@@ -196,6 +202,8 @@ cctv
 cdiv
 CDNs
 ceb
+Ceccotti
+Centros
 ceo
 cer
 cfbundle
@@ -245,6 +253,7 @@ colorway
 colurna
 colvis
 colwidth
+Cómo
 Connectez
 CONOUT
 constexpr
@@ -264,6 +273,7 @@ cpb
 cpet
 crewai
 CRF
+crm
 CRM
 Crossbody
 crosstab
@@ -313,6 +323,7 @@ Depatmint
 descgen
 deskmates
 Dexin
+dflags
 dfs
 DHH
 diltiazem
@@ -341,6 +352,7 @@ Downscale
 dpi
 dpo
 DPO
+DQN
 draig
 Dreesen
 drilldown
@@ -353,6 +365,8 @@ dshm
 dsl
 dsn
 DSQ
+dto
+DTOs
 dtype
 dtypes
 Duh
@@ -370,6 +384,9 @@ Dzor
 ecommerce
 EDB
 edgecolor
+edu
+Edu
+EDU
 Edunov
 eee
 EHR
@@ -402,6 +419,7 @@ ENU
 Envane
 envrc
 envsubst
+Enzo
 epath
 epoc
 Eragon
@@ -486,6 +504,9 @@ Frodo
 fromarray
 frombytes
 fromiter
+frontline
+Frontline
+FRONTLINE
 fsspec
 FTPS
 fts
@@ -561,6 +582,7 @@ Godzilla
 goldmine
 Gombe
 GOODALL
+googleapi
 googlecar
 googler
 goooooood
@@ -601,6 +623,7 @@ Hannaneh
 Harvick
 hashtag
 hashtags
+Haumea
 Hawkins'll
 Hayao
 Hbf
@@ -662,6 +685,7 @@ idcg
 idk
 idks
 idxs
+IEA
 ience
 ifconfig
 IFI
@@ -718,6 +742,7 @@ JAVACMD
 Jax
 JDK
 Jedi
+Jeeg
 jegadesh
 jesieni
 Jestem
@@ -806,11 +831,13 @@ lecie
 lego
 lenzing
 Levaquin
+levelized
 levelname
 Leventer
 lexer
 lexers
 liberties
+lic
 linalg
 linecolor
 linestyle
@@ -867,6 +894,7 @@ magika
 Mahindra
 mahut
 mai
+Makemake
 makeover
 Malware
 Mamah
@@ -895,6 +923,7 @@ mec
 MEDIANCUT
 mediapy
 Mega
+Megarobot
 Meinl
 Meirelles
 Meltem
@@ -932,6 +961,7 @@ MMLU
 MMO
 mmol
 mmr
+Mnih
 modelfile
 Molaison
 monty
@@ -959,6 +989,7 @@ Mvar
 mvn
 mvnw
 mvp
+MWh
 mwouts
 myaccount
 mydb
@@ -1020,6 +1051,7 @@ nokey
 Nominatim
 NOMINATIM
 NOMINMAX
+nonroot
 norigin
 notetaker
 novnc
@@ -1078,6 +1110,7 @@ overwiew
 owlbot
 oxml
 padus
+Pageable
 pagemap
 Pakeman
 paleo
@@ -1160,6 +1193,7 @@ prag
 Pranav
 praw
 prcntg
+PRD
 Pré
 preds
 pregel
@@ -1500,6 +1534,7 @@ Traceloop
 treeah
 Tribbiani
 Tricyle
+trimpath
 tritan
 TRK
 trl
@@ -1603,6 +1638,7 @@ VMAF
 VMs
 vnc
 voiceover
+Volodymyr
 vos
 VOS
 votre
@@ -1648,6 +1684,7 @@ WFH
 wght
 whitegrid
 wiersz
+WIF
 wiffle
 wikipedia
 wil
@@ -1716,6 +1753,7 @@ yref
 ytd
 ytick
 yticks
+Yuxi
 Yuxuan
 Yuzuru
 zakarid
